@@ -1,9 +1,9 @@
-package Day5;
+
 
 /* Create an abstract class Animal with an abstract method makeSound() and a concrete method sleep(). 
 Create two subclasses Dog and Cat that extend Animal and implement the makeSound() method.
  */
-
+package Day5;
 // Abstract class Animal
 abstract class Animal{
     public abstract void makeSound();
