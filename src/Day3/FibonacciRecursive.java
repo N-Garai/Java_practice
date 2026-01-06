@@ -1,3 +1,5 @@
+package Day3;
+
 public class FibonacciRecursive {
     public static long fibonacci(int n) {
         // Base cases

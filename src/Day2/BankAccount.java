@@ -1,3 +1,5 @@
+package Day2;
+
 class BankAccount {
     String accountNumber;
     double balance;

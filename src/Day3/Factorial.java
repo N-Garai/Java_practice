@@ -1,3 +1,5 @@
+package Day3;
+
 class Factorial {
     public static long factorial(int n) {
         // Base case

@@ -1,4 +1,4 @@
-package geometry;
+package Day3.geometry;
 
 public class Rectangle {
     private double length;

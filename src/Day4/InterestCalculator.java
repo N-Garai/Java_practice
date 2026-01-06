@@ -1,4 +1,5 @@
 package Day4;
+
 import java.io.*;
 
 class InterestCalculator {

@@ -1,3 +1,5 @@
+package Day1;
+
 class Hello3{
  public static void main(int x){
   System.out.println("RCCIIT");

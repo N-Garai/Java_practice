@@ -1,3 +1,5 @@
+package Day3;
+
 public class GCDRecursive {
     public static int gcd(int a, int b) {
         // Base case

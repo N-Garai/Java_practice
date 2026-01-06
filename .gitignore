@@ -1,1 +1,39 @@
+.classpath
+.project
+.settings/
+.vscode/
+/.idea/
+*.iml
+
+# Compiled class files
+*.class
+bin/
+out/
+build/
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs and temp files
+*.log
+*.tmp
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+/target/
+
+# Gradle
+/.gradle/
+build/
+
+# JetBrains
+/.idea/
+*.iws
 **/*.class

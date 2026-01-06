@@ -1,3 +1,5 @@
+package Day2;
+
 class Book {
     String title;
     String author;

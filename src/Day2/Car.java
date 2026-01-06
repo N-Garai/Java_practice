@@ -1,3 +1,5 @@
+package Day2;
+
 class Car {
     String brand;
     String model;

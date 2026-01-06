@@ -1,10 +1,11 @@
-class Hello5{
+package Day1;
+
+class Hello4{
   public static void main(String args[]){
    System.out.println("Hello");
-   Hello5 obj=new Hello5();
-   obj.func();
+   Hello4.func();
   }
-  public void func(){
+  public static void func(){
     System.out.println("World");
   }
 }

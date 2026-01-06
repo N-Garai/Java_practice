@@ -1,3 +1,5 @@
+package Day2;
+
 class Employee {
     String name;
     int id;

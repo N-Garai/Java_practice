@@ -1,3 +1,5 @@
+package Day2;
+
 class Rectangle {
     int length, width;
     

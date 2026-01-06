@@ -1,3 +1,5 @@
+package Day1;
+
 class Hello6{
   public static void main(String args[]){
    

@@ -1,3 +1,5 @@
+package Day1;
+
 class Hello7{
   public static void main(String args[]){
    Hello7 obj=new Hello7();

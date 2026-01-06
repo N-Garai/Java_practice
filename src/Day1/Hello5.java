@@ -1,9 +1,12 @@
-class Hello4{
+package Day1;
+
+class Hello5{
   public static void main(String args[]){
    System.out.println("Hello");
-   Hello4.func();
+   Hello5 obj=new Hello5();
+   obj.func();
   }
-  public static void func(){
+  public void func(){
     System.out.println("World");
   }
 }

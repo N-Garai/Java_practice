@@ -1,8 +1,7 @@
+package Day5;
 //Create an interface Shape with methods getArea() and getPerimeter(). 
 // Implement two classes Rectangle and Circle that implement this interface and calculate their respective area and perimeter
-package Day5;
-import java.lang.*;
-import java.io.*;
+
 interface Shape {
     int getArea();
     int getPerimeter();
