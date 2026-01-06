@@ -2,7 +2,7 @@
  Implement a class BasicCalculator that implements this interface.
  */
 
-package Day5;
+//package Day5;
 interface Calculator {
     int add(int a, int b);
     int subtract(int a, int b);
